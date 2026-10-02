@@ -113,7 +113,7 @@ export function SiteFooter() {
                 Politique de confidentialité
               </Link>
               <a
-                href="https://ernestine.framer.website/"
+                href="https://ernestinematjabo.com/"
                 target="_blank"
                 rel="noopener"
                 className="transition-colors hover:text-foreground"
