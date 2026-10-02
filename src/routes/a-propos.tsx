@@ -111,9 +111,6 @@ function AProposPage() {
               <Link to="/contact" className="btn-gold">
                 Nous contacter <ArrowUpRight className="h-4 w-4" />
               </Link>
-              <span className="text-xs tracking-[0.16em] text-muted-foreground uppercase">
-                25 rue Archereau, 75019 Paris · SIRET : 918 120 783 00017
-              </span>
             </div>
           </div>
         </div>
